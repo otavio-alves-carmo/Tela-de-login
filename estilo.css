@@ -1,0 +1,26 @@
+body{
+    background-image: url(pexels-pixabay-373543.jpg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 100px;
+    padding: 100px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+    color: white;
+}
+form{
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background: transparent;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 1);
+}
+div{
+    color: white;
+}
